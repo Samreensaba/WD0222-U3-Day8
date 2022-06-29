@@ -1,0 +1,23 @@
+.socialIcon{
+    color: grey;
+    display: inline-block;
+    margin-left: 6px;
+    margin-bottom: 1rem;
+}
+.footerText{
+    flex-direction: column;
+}
+.footerColumn{
+    flex-direction: row;
+    justify-content: space-between;
+}
+.service_code{
+    border: 1px solid white;
+    width: 110px;
+    text-align: center;
+    margin-top: 2rem;
+}
+.copyRight{
+    font-size: 10px;
+    margin-top: 20px;
+}
